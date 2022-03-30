@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  font-size: .22rem;
+  color: #666;
+  line-height: .22rem;
+  margin-right: 0.12rem;
+}
+
+.score {
+  font-size: .22rem;
+  font-weight: 500;
+  line-height: .22rem;
+  color: rgb(156, 156, 156);
+}

@@ -1,0 +1,12 @@
+.dot-container {
+
+  .dot-item + .dot-item {
+    &::before {
+      content: '\B7';
+    }
+  }
+}
+
+.dot-item {
+  display: inline-block;
+}

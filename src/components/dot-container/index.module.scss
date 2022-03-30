@@ -1,0 +1,13 @@
+.container {
+
+  .item + .item {
+    &::before {
+      content: '\B7';
+      margin: 0 8px;
+    }
+  }
+}
+
+.item {
+  display: inline-block;
+}

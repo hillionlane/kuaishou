@@ -1,0 +1,41 @@
+.container {
+  background: #fff;
+  padding: 11px 19px 9px 19px;
+}
+
+.titleWrap {
+  display: flex;
+  align-items: center;
+  margin: 6px 0 4px;
+}
+
+.title {
+  display: inline-block;
+  font-size: 16px;
+  color: #222;
+  line-height: 22px;
+  font-weight: 700;
+  z-index: 9;
+}
+
+.titleText {
+  position: relative;
+  word-break: break-word;
+}
+
+.cell {
+  line-height: 0.5rem;
+}
+
+.priceLine {
+  display: flex;
+  align-items: center;
+}
+
+.finalPrice {
+  margin-left: 4px;
+}
+
+.divider {
+  margin: 8px -19px 8px 0;
+}

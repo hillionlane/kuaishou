@@ -1,0 +1,15 @@
+@font-face{
+  font-family:eshop;
+  src: url(../font/eshop.f9e9f73bc68066071ba64444ae5d9bd6.woff) format("woff")
+  /* src:url(../font/eshop.d955ce61993827af5353e62b02fbe9c5.eot);
+  src:url(../font/eshop.d955ce61993827af5353e62b02fbe9c5.eot#iefix) format("embedded-opentype"),url(../font/eshop.f9e9f73bc68066071ba64444ae5d9bd6.woff) format("woff"),url(../font/eshop.ef1c90b6a0a8bc7a4441f9df413a7548.ttf) format("truetype"),url(../i/eshop.493158991f0ea9bd65dc8788fcd78ceb.svg#iconfont) format("svg") */
+}
+.iconfont{
+  font-family:eshop!important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale
+}
+.icon-user2:before{content:"\E2E5"}
+.icon-shop2:before{content:"\E2E7"}
+.icon-im5:before{content:"\E2E6"}

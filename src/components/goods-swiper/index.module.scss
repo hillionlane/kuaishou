@@ -1,0 +1,21 @@
+.img {
+    width: 100%;
+    height: 100vw;
+    object-fit: cover;
+}
+
+.indicator {
+    position: absolute;
+    bottom: 16px;
+    right: 19px;
+    width: 38px;
+    height: 20px;
+    background: rgba(0,0,0,.4);
+    color: #fff;
+    text-align: center;
+    line-height: 22px;
+    border-radius: 10px;
+    font-size: 12px;
+    -webkit-transform: translateZ(1px);
+    transform: translateZ(1px);
+}

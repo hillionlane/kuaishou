@@ -1,0 +1,42 @@
+.container {
+  background-color: #f8f8f8;
+  background-size: 100% 100%;
+  border-radius: 8px;
+  padding: 0.26rem 0.24rem 0.24rem 0.24rem;
+  height: 1.18rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.overview {
+
+  &Text {
+    font-size: .26rem;
+    font-weight: 600;
+    color: #222;
+    line-height: .26rem;
+  }
+}
+
+.stars {
+  opacity: 1;
+  background: rgba(0,0,0,.03);
+  border-radius: 8px;
+  margin-left: 0.12rem;
+  line-height: 14px;
+  font-size: 11px;
+  padding: 0 5px;
+  display: inline-block;
+}
+
+.scores {
+  display: flex;
+  justify-content: space-between;
+}
+
+.scoreItem {
+
+}

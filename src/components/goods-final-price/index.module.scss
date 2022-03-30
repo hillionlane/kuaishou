@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  height: 25px;
+  font-weight: 700;
+  border-radius: 25px;
+  background: #fe3666;
+  font-size: 14px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.symbol {
+  font-size: .3rem;
+  line-height: .3rem;
+  margin-left: 1px;
+}
+
+.price {
+  font-size: 20px;
+  line-height: 16px;
+  font-family: AlteDIN1451Mittelschrift,DIN,sans-serif-condensed;
+  margin-right: 1px;
+}

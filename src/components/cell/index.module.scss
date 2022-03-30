@@ -1,0 +1,17 @@
+.cell {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  // line-height: .28rem;
+}
+
+.cellMain {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+}
+
+.cellRight {
+  display: flex;
+  align-items: center;
+}

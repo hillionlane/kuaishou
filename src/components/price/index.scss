@@ -1,0 +1,22 @@
+.price-wrap {
+  display: flex;
+  align-items: flex-end;
+  font-size: .48rem;
+  line-height: .48rem;
+  color: #fe3666;
+}
+
+.price-literal {
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: -1px;
+  margin-bottom: -3px;
+  font-family: AlteDIN1451Mittelschrift,DIN,sans-serif-condensed;
+  font-weight: 500;
+}
+
+.price-symbol {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+}
